@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junwen Miao(苗君文)"
+title                    : "Junwen Miao 苗君文"
 description              : "Undergraduate junior student in Software Engineering. My research interests include computer vision, llm, diffusion model"
 repository               : "MEKSAAA/MEKSAAA.github.io"
 google_scholar_stats_use_cdn : # true
