@@ -23,9 +23,15 @@ Currently, I am focused on **deep learning**, **computer vision**, **LLMs** and 
 Feel free to connect if you'd like to discuss ideas or collaborate on exciting projects! **Let's innovate together!** 🚀
 
 
+# 🔥 News
+- *2024.11*: 🏆 Received the **First-Prize Scholarship for Outstanding Students** at Tongji University, awarded to the top 5% of students.
+- *2024.10*: 🎉 Attended **NVIDIA's *Introduction to NVIDIA DPU Programming*** course and was incredibly lucky to win a limited-edition book signed by **Jensen Huang**! 📖✨
+
+
+
 # 📖 Education
 - *2022.09 - 2026.06*, **Tongji University** – School of Computer Science and Technology
-  Bachelor of Software Engineering, Specialization in Machine Intelligence
+  - Bachelor of Software Engineering, Specialization in Machine Intelligence
 
 
 # 🔬 Research Interests
@@ -33,10 +39,6 @@ Feel free to connect if you'd like to discuss ideas or collaborate on exciting p
 - **Computer Vision**: Projects including gesture recognition and depth completion.
 - **Software Engineering**: Building efficient, user-friendly systems.
 
-
-# 🔥 News
-- *2024.11*: 🏆 Received the **First-Prize Scholarship for Outstanding Students** at Tongji University, awarded to the top 5% of students.
-- *2024.10*: 🎉 Attended **NVIDIA's *Introduction to NVIDIA DPU Programming*** course and was incredibly lucky to win a limited-edition book signed by **Jensen Huang**! 📖✨
 
 # 🏆 Honors and Awards
 - *2023 / 2024*, 🥇 First-Prize Scholarship for Outstanding Students, Tongji University (Top 5%)
@@ -49,9 +51,11 @@ Feel free to connect if you'd like to discuss ideas or collaborate on exciting p
 - *2023*, 🥈 Second Prize in VEX Robotics Competition, Tongji University
 - *2020*, 🥈 Silver Award in International Genetically Engineered Machine Competition (iGEM)
 
+# 🏫 Student Activities  
+- **Tongji University Student Union**  
+  *Publicity Team Leader, 2023.09 - 2024.07*: Responsible for dozens of copywriting and typesetting of the WeChat public account, designed and published promotional content, and organized offline activities and campus improvement initiatives like dormitory air-conditioner upgrades.  
+- **Tongji University Freshman Institute**  
+  *Class Representative, 2022.09 - 2023.07*: Organized many offline and online activities and managed member information.  
+- **Tongji MAD English Club**  
+  *Academic Committee Member, 2022.09 - 2023.07*: Hosted academic events and wrote promotional content for the official account.  
 
-# 📬 Contact Me
-- **LinkedIn**: [linkedin.com/in/junwenmiao](https://linkedin.com/in/junwenmiao)
-- **Instagram**: [instagram.com/meksamiao](https://instagram.com/meksamiao)
-- **Email**: [junwenmiao2004@outlook.com](mailto:junwenmiao2004@outlook.com)
-- **Phone**: +86-18117228786
