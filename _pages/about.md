@@ -53,23 +53,23 @@ Feel free to connect if you'd like to discuss ideas or collaborate on exciting p
 
 
 # 📝 Research Experience
-- **Medical Injury Severity Assessment using RAG with Large Language Models**
+- **🩺 Medical Injury Severity Assessment using RAG with Large Language Models**
   *Research Assistant, Remote, Oct 2024- Present*
   - **System Design**: Developed a RAG-based pipeline using Haystack and Python to assess injury severity with LLMs.
   - **Model Evaluation**: Conducted a structured comparison of different LLMs’ performance.
   - **Data Analysis**: Analyzed model accuracy and fine-tuned top-performing models for enhanced results.
   
-- **Unsupervised Depth Completion with Diffusion Model**
+- **🔍 Unsupervised Depth Completion with Diffusion Model**
   *Project Lead, Tongji University, Mar 2024- Present*
   - **Literature Review**: Investigated depth completion techniques using deep learning, selecting Kbnet as the baseline.
   - **Methodology Design**: Developed a hybrid approach combining monocular depth prediction and depth completion.
 
-- **Data Generation for Power Consumption Using Diffusion Models**
+- **🔋 Data Generation for Power Consumption Using Diffusion Models**
   *Research Assistant, iBDSys Lab, Shanghai Jiao Tong University, Aug 2024- Sep 2024*
   - **Research Focus**: Handled dataset preparation and integrated pre-trained models.
   - **Method Exploration**: Investigated Time-Frequency Diffusion and Hierarchical Diffusion Transformers for time-series data.
-  - 
-- **Hand Gesture Classification with YOLOv5**
+
+- **🖐️ Hand Gesture Classification with YOLOv5**
   *Team Member, MIT, Cambridge, Jan 2024- Feb 2024*
   - **Dataset Creation**: Built a custom dataset with 10 hand gestures for YOLOv5 model training.
   - **Model Development**: Developed a real-time gesture recognition system using YOLOv5, achieving high accuracy.
