@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-06'
 papers:
   1ff9m48AAAAJ:9yKSN-GCB0IC:
-    citations: 0
+    citations: 1
     title: 'AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection'
     year: '2025'
   1ff9m48AAAAJ:IjCSPb-OGe4C:
