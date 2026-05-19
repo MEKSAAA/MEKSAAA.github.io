@@ -391,11 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-undergraduate-student-majors-in-software-engineering-tongji-univeristy",
+            },},{id: "news-undergraduate-student-majors-in-software-engineering-tongji-univeristy",
           title: 'Undergraduate student majors in Software Engineering, Tongji Univeristy.',
+          description: "",
+          section: "News",},{id: "news-i-will-join-mld-cmu-as-an-incoming-master-student",
+          title: 'I will join MLD@CMU as an incoming Master student.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
