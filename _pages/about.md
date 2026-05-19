@@ -26,7 +26,7 @@ latest_posts:
   limit: 0 # leave blank to include all the blog posts
 ---
 
-I am an incoming M.Sc. student in [Machine Learning at Carnegie Mellon University](https://www.ml.cmu.edu/). 
+Hi! I'm Junwen Miao (苗君文), an incoming M.Sc. student in [Machine Learning at Carnegie Mellon University](https://www.ml.cmu.edu/). 
 
 I am also a senior undergraduate student in Software Engineering at [Tongji University](https://cs.tongji.edu.cn/).
 
