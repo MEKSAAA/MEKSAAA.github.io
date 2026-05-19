@@ -1,10 +1,7 @@
 cv:
   name: Junwen Miao
-  label: Incoming M.Sc. Student in Machine Learning
   email: miaojunwen9@gmail.com
-  location: Shanghai, China / Pittsburgh, USA
   image: ""
-  summary: Incoming M.Sc. student in Machine Learning at Carnegie Mellon University, working on multimodal agents, visual reasoning, embodied AI, industrial anomaly detection, and agent evaluation.
 
   social_networks:
     - network: GitHub
@@ -19,7 +16,7 @@ cv:
       - institution: Carnegie Mellon University
         location: Pittsburgh, USA
         area: Machine Learning
-        studyType: M.Sc.
+        studyType: Master of Science
         start_date: 2026-08
         end_date: 2027-12
         highlights:
@@ -28,7 +25,7 @@ cv:
       - institution: Tongji University
         location: Shanghai, China
         area: Software Engineering
-        studyType: B.Eng.
+        studyType: Bachelor of Engineering
         start_date: 2022-09
         end_date: 2026-06
         score: "GPA: 4.75/5.0"
@@ -41,45 +38,5 @@ cv:
         end_date: 2025-09
         score: "GPA: 4.0/4.0"
 
-    Research Experience:
-      - company: AIR, Tsinghua University
-        position: "Research Intern (Remote); Advisor: Yan Wang"
-        location: Beijing, China
-        start_date: 2025-01
-        end_date: Present
 
-      - company: University of Waterloo
-        position: "Research Intern (Remote); Advisor: Wenhu Chen"
-        location: Waterloo, Canada
-        start_date: 2026-03
-        end_date: 2026-05
-
-      - company: University of California, Irvine
-        position: "Research Intern (On-Site); Advisor: Weining Shen"
-        location: Irvine, CA
-        start_date: 2025-06
-        end_date: 2025-09
-
-    Internship Experience:
-      - company: Embodied Research Centre, Agibot
-        position: "Algorithm Engineering Intern"
-        location: Shanghai, China
-        start_date: 2026-03
-        end_date: Present
-
-    Honors and Awards:
-      - title: Outstanding Graduate
-        date: 2026
-        awarder: Tongji University
-        summary: Award for top undergraduate graduates at Tongji University.
-
-      - title: Outstanding Student Scholarship
-        date: "2023, 2024, 2025"
-        awarder: Tongji University
-        summary: Award for top students at Tongji University.
-
-      - title: Outstanding Undergraduate Student
-        date: 2024
-        awarder: Tongji University
-        summary: Award for top 1% of undergraduate students.
 
