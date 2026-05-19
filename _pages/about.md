@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <<p><a href="mailto:miaojunwen9@gmail.com">miaojunwen9@gmail.com</a></p>
+    <p><a href="mailto:miaojunwen9@gmail.com">miaojunwen9@gmail.com</a></p>
     <p><a href="mailto:junwenm@andrew.cmu.edu">junwenm@andrew.cmu.edu</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
