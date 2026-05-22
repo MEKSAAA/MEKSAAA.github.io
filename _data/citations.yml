@@ -1,15 +1,19 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-22'
 papers:
   1ff9m48AAAAJ:9yKSN-GCB0IC:
     citations: 1
-    title: 'AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection'
+    title: 'AgentIAD: Agentic Industrial Anomaly Detection via Adaptive Memory Augmentation'
     year: '2025'
   1ff9m48AAAAJ:IjCSPb-OGe4C:
     citations: 4
     title: 'SportR: A Benchmark for Multimodal Large Language Model Reasoning in Sports'
     year: '2025'
   1ff9m48AAAAJ:UeHWp8X0CEIC:
-    citations: 1
+    citations: 3
     title: 'ClawBench: Can AI Agents Complete Everyday Online Tasks?'
+    year: '2026'
+  1ff9m48AAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: 'RewardHarness: Self-Evolving Agentic Post-Training'
     year: '2026'
