@@ -27,7 +27,7 @@ latest_posts:
 ---
 
 Hi! I'm Junwen Miao (苗君文). I will begin my M.Sc. in [Machine Learning at Carnegie Mellon University](https://www.ml.cmu.edu/).
-Previously, I received my B.Eng. in Software Engineering from [Tongji University](https://cs.tongji.edu.cn/) 
+Previously, I received my B.Eng. in Software Engineering from [Tongji University](https://cs.tongji.edu.cn/).
 I am currently a Research Intern on the VLA Pretraining Team at [AgiBot Finch](https://finch.agibot.com/).
 
 My research interests include agentic AI and embodied intelligence.
