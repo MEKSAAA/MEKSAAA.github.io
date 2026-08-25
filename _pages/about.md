@@ -26,7 +26,7 @@ latest_posts:
   limit: 0 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Junwen Miao (苗君文). I will begin my M.Sc. in [Machine Learning at Carnegie Mellon University](https://www.ml.cmu.edu/).
+Hi! I'm Junwen Miao (苗君文). I am a first-year [MSML](https://www.ml.cmu.edu/) student at CMU.
 Previously, I received my B.Eng. in Software Engineering from [Tongji University](https://cs.tongji.edu.cn/).
 I am currently a Research Intern on the VLA Pretraining Team at [AgiBot Finch](https://finch.agibot.com/).
 
