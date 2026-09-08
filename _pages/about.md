@@ -26,7 +26,7 @@ latest_posts:
   limit: 0 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Junwen Miao (苗君文). I am a first-year [MSML](https://www.ml.cmu.edu/) student at CMU.
+Hi! I'm Junwen Miao (苗君文). I am a first-year [MSML](https://www.ml.cmu.edu/) student at CMU, advised by [Prof. David Held](https://davheld.github.io/).
 Previously, I received my B.Eng. in Software Engineering from [Tongji University](https://cs.tongji.edu.cn/).
 I was previously a Research Intern at the Embodied Research Centre of [AgiBot](https://www.agibot.com/).
 
