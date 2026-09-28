@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "latest update: July, 2026"
+subtitle: "latest update: Sep, 2026"
 
 profile:
   align: right
